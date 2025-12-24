@@ -1,0 +1,13 @@
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+yfinance>=0.2
+pytz>=2023.3
+pandas_market_calendars>=4.4
+scipy>=1.10
+rich>=13.9
+tabulate>=0.9
+playwright>=1.40
+FreeSimpleGUI>=5
