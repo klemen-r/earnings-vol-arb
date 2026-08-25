@@ -236,8 +236,8 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/earnings-screener/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/earnings-screener/discussions)
+- **Issues**: [GitHub Issues](https://github.com/klemen-r/earnings-vol-arb/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/klemen-r/earnings-vol-arb/discussions)
 
 ---
 

@@ -1,11 +1,11 @@
 [project]
 name = "earnings-screener"
 version = "1.0.0"
-description = "Professional earnings calendar screener for options calendar spreads"
+description = "Earnings calendar screener for option calendar spreads"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Earnings Screener Team" }]
+authors = [{ name = "Klemen Rajer", email = "klemen.rajer@gmail.com" }]
 keywords = ["options", "earnings", "trading", "calendar-spreads", "volatility", "screening"]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -48,10 +48,10 @@ all = ["playwright>=1.40"]
 earnings-screener = "earnings_screener.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/earnings-screener"
-Documentation = "https://github.com/yourusername/earnings-screener/blob/main/README.md"
-Repository = "https://github.com/yourusername/earnings-screener"
-Issues = "https://github.com/yourusername/earnings-screener/issues"
+Homepage = "https://github.com/klemen-r/earnings-vol-arb"
+Documentation = "https://github.com/klemen-r/earnings-vol-arb/blob/main/README.md"
+Repository = "https://github.com/klemen-r/earnings-vol-arb"
+Issues = "https://github.com/klemen-r/earnings-vol-arb/issues"
 
 [build-system]
 requires = ["setuptools>=68", "wheel"]
@@ -82,4 +82,4 @@ testpaths = ["tests"]
 python_files = ["test_*.py"]
 python_classes = ["Test*"]
 python_functions = ["test_*"]
-addopts = "-v --cov=src/earnings_screener --cov-report=term-missing"
+addopts = "-v"
